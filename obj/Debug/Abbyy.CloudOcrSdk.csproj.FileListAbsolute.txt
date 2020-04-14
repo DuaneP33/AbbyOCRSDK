@@ -1,0 +1,14 @@
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.dll.config
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.dll
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.pdb
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\obj\Debug\Abbyy.CloudOcrSdk.csprojAssemblyReference.cache
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\obj\Debug\Abbyy.CloudOcrSdk.csproj.CoreCompileInputs.cache
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\obj\Debug\AbbyyOnlineSdk.dll
+C:\Users\Duane\OneDrive\Abbey Technologies\Projects\Commission Processing\OCR\Abby\General\dotNetWrapper\obj\Debug\AbbyyOnlineSdk.pdb
+C:\Abbey\Commission Processing\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.dll.config
+C:\Abbey\Commission Processing\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.dll
+C:\Abbey\Commission Processing\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.pdb
+C:\Abbey\Commission Processing\dotNetWrapper\obj\Debug\Abbyy.CloudOcrSdk.csproj.CoreCompileInputs.cache
+C:\Abbey\Commission Processing\dotNetWrapper\obj\Debug\AbbyyOnlineSdk.dll
+C:\Abbey\Commission Processing\dotNetWrapper\obj\Debug\AbbyyOnlineSdk.pdb
+C:\Abbey\Commission Processing\dotNetWrapper\obj\Debug\Abbyy.CloudOcrSdk.csprojAssemblyReference.cache
